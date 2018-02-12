@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 20 18:48:21 2017
 
-@author: Hiranya
+@author: Shalin
 
 NLP Project: Quora question pair
 
