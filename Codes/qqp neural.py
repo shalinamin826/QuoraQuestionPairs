@@ -2,7 +2,7 @@
 """
 Created on Wed Nov 29 22:50:35 2017
 
-@author: Hiranya
+@author: Shalin
 """
 import pandas as pd
 from tqdm import trange
